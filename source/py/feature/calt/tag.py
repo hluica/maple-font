@@ -5,7 +5,7 @@ built_in_tag_text = [
     "trace",
     "debug",
     "info",
-    "warn",
+    "warning",
     "error",
     "fatal",
     "todo",
@@ -14,7 +14,8 @@ built_in_tag_text = [
     "hack",
     "mark",
     "eror",
-    "warning",
+    "failure",
+    "success",
 ]
 
 
